@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "node server.js",
-    "start": "pm2 start server.js"
+    "start": "node server.js"
   },
   "author": "ayush",
   "license": "ISC",
